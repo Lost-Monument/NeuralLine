@@ -9,6 +9,7 @@
 > ## 術集
 
 ##### 計算機科學與技術
+* -已簡述-實現中-[思維索引](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-COMPUTER/%E6%80%9D%E7%B6%AD%E7%B4%A2%E5%BC%95)
 * -未簡述-未實現-[ILLUSORY(虛擬)](https://github.com/kanpsai/NeuralLine/blob/%E5%B7%9B%E6%BE%82%E4%BA%82%E5%BA%8F%E9%8A%98/ILLUSORY(%E8%99%9B%E6%93%AC).md)
 * * *
 
