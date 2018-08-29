@@ -19,5 +19,5 @@
 * * *
 
 > ## 行居集
-* -未簡述-未實現-[PANTS(褲)](https://github.com/kanpsai/NeuralLine/blob/%E5%B7%9B%E6%BE%82%E4%BA%82%E5%BA%8F%E9%8A%98/Pants(%E8%A4%B2).md)
+* -未簡述-未實現-[PANTS(褲の革新)](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E8%A4%B2%E3%81%AE%E9%9D%A9%E6%96%B0)
 
