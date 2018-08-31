@@ -11,7 +11,7 @@
 ##### 計算機科學與技術
 * -已簡述-實現中-[MainLine思維索引](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-COMPUTER/%E6%80%9D%E7%B6%AD%E7%B4%A2%E5%BC%95)
 * -未簡述-未實現-[ILLUSORY虛擬時空](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-COMPUTER/%E8%99%9B%E6%93%AC%E6%99%82%E7%A9%BA)
-* -未簡述-未實現-[AI全決策智能]
+* -未簡述-未實現-[AI全決策智能](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-COMPUTER/%E5%85%A8%E6%B1%BA%E7%AD%96%E6%99%BA%E8%83%BD)
 
 * * *
 
