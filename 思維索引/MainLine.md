@@ -5,7 +5,7 @@
    儲備技術準備注入
 
 ## 短程優化 [去除冗餘]
- * [解除stdio束縛](https://github.com/Lost-Monument/NeuralLine/blob/%E8%A1%93%E9%9B%86-COMPUTER/%E6%80%9D%E7%B6%AD%E7%B4%A2%E5%BC%95/%E5%85%A8%E9%81%A9%E7%94%A8%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4.cpp)
+ * [C++解除stdio束縛](https://github.com/Lost-Monument/NeuralLine/blob/%E8%A1%93%E9%9B%86-COMPUTER/%E6%80%9D%E7%B6%AD%E7%B4%A2%E5%BC%95/%E5%85%A8%E9%81%A9%E7%94%A8%E9%99%90%E5%88%B6%E8%A7%A3%E9%99%A4.cpp)
  * continue與自增
  * 建立字典存儲
  * 性能：for循環 > while循環 > 遞歸
