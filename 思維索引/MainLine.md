@@ -21,8 +21,10 @@
   *  string類型
   *  vector類型
   *  set類型
+  *  unordered_set類型
   *  map類型
-  *  hash map
+  *  unordered_map類型
+  *  hash map類型
 
 ## 算法 [ALGORITHM]
 
