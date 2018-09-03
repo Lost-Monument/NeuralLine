@@ -17,8 +17,8 @@
 * * *
 
 ##### 材料科學與工程
-* 
-
+* -未簡述-未實現-[Combustible ice mining可燃冰開採方案]()
+* -未簡述-未實現-[Posterior genetic engineering后發性基因工程]()
 * * *
 
 > ## 文集
