@@ -34,5 +34,3 @@
 
 * * *
 
-> ## 巛之越百代
-* [EndlessDesire無限渴望](https://github.com/Lost-Monument/EndlessDesire)
