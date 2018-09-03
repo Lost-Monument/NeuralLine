@@ -6,6 +6,11 @@
                    吾欣往矣
 
 
+> ## 文集
+*
+
+* * *
+
 > ## 術集
 
 ##### 計算機科學與技術
@@ -19,10 +24,6 @@
 ##### 材料科學與工程
 * -未簡述-未實現-[Combustible ice mining可燃冰開採方案](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E5%8F%AF%E7%87%83%E5%86%B0%E9%96%8B%E6%8E%A1%E6%96%B9%E6%A1%88)
 * -未簡述-未實現-[Posterior genetic engineering后發性基因工程](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E5%90%8E%E7%99%BC%E6%80%A7%E5%9F%BA%E5%9B%A0%E5%B7%A5%E7%A8%8B)
-* * *
-
-> ## 文集
-*
 
 * * *
 
