@@ -1,5 +1,7 @@
-# 數據結構與算法
- > ### 綜述：
+計算機科學的靈魂
+## 數據結構與算法
+
+ # 思維索引：
    * [MainLine](https://github.com/Lost-Monument/NeuralLine/blob/%E8%A1%93%E9%9B%86-COMPUTER/%E6%80%9D%E7%B6%AD%E7%B4%A2%E5%BC%95/MainLine.md)
          
  > ### 修煉：
