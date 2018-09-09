@@ -11,7 +11,6 @@
 > ## 淺嘗輒止
 *
 
-<br />
 * * *
 <br />
 
@@ -26,7 +25,6 @@
 * -未簡述-未實現-[PhantomMapping幻象映射](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-COMPUTER/%E5%B9%BB%E8%B1%A1%E6%98%A0%E5%B0%84)
 * -未簡述-未實現-[ILLUSORY虛擬時空](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-COMPUTER/%E8%99%9B%E6%93%AC%E6%99%82%E7%A9%BA)
 
-<br />
 * * *
 <br />
 
@@ -35,7 +33,6 @@
 
 * -未簡述-未實現-[Posterior genetic engineering后發性基因工程](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E5%90%8E%E7%99%BC%E6%80%A7%E5%9F%BA%E5%9B%A0%E5%B7%A5%E7%A8%8B)
 
-<br />
 * * *
 <br />
 
