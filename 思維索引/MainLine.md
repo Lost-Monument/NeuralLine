@@ -18,6 +18,7 @@
   *  stack類型
   *  queue類型
   *  heap類型
+  *  priority_queue類型
   *  string類型
   *  vector類型
   *  set類型
