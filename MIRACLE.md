@@ -45,3 +45,5 @@
 
 * -未簡述-未實現-[Bed-Up Desk-Down structure上床下桌式](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E4%B8%8A%E5%BA%8A%E4%B8%8B%E6%A1%8C%E5%BC%8F)
 
+* -未簡述-已實現-[Manga Upsurge漫畫熱](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E6%BC%AB%E7%95%AB%E7%86%B1)
+
