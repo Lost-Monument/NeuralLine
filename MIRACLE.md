@@ -13,6 +13,7 @@
 > ## 淺嘗輒止
 * [列王之爭-伊始](https://github.com/Lost-Monument/NeuralLine/blob/%E6%96%87%E9%9B%86%3CI%3E/%E5%88%97%E7%8E%8B%E4%B9%8B%E7%88%AD-%E4%BC%8A%E5%A7%8B.md)
 
+* [輾轉-抉擇](https://github.com/Lost-Monument/NeuralLine/blob/%E6%96%87%E9%9B%86%3CI%3E/%E8%BC%BE%E8%BD%89%20%E6%8A%89%E6%93%87.md)
 
 * * *
 <br />
