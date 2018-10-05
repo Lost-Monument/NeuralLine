@@ -1,4 +1,5 @@
- # 數學模型 Mathematical Modeling
+ # 數學模型
+ # Mathematical Modeling
  
 > ## 線性規劃 Linear Programming
  
