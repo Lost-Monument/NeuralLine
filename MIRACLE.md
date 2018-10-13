@@ -43,13 +43,16 @@
 
 * -未簡述-未實現-[Flexible display material柔性顯示材料](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E6%9F%94%E6%80%A7%E9%A1%AF%E7%A4%BA%E6%9D%90%E6%96%99)
 
+* -未簡述-未實現-[Mind Control Material意念控制材料](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E6%84%8F%E5%BF%B5%E6%8E%A7%E5%88%B6%E6%9D%90%E6%96%99)
+
+
 * * *
 <br />
 
+* -未簡述-未實現-[Book Essence_Transformation本質改造](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E6%9C%AC%E8%B3%AA%E6%94%B9%E9%80%A0)
+
 > ## 行居集
 * -未簡述-未實現-[PANTS褲の革新](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E8%A4%B2%E3%81%AE%E9%9D%A9%E6%96%B0)
-
-* -未簡述-未實現-[Book Essence_Transformation本質改造](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E6%9C%AC%E8%B3%AA%E6%94%B9%E9%80%A0)
 
 * -未簡述-未實現-[Bed-Up Desk-Down structure上床下桌式](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E4%B8%8A%E5%BA%8A%E4%B8%8B%E6%A1%8C%E5%BC%8F)
 
