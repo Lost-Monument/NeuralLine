@@ -61,7 +61,3 @@
 
 &emsp;&emsp;&emsp;&emsp;[PANTSの革新](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E8%A4%B2%E3%81%AE%E9%9D%A9%E6%96%B0)
 
-&emsp;&emsp;&emsp;&emsp;[上床下桌式](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E4%B8%8A%E5%BA%8A%E4%B8%8B%E6%A1%8C%E5%BC%8F)
-
-&emsp;&emsp;&emsp;&emsp;[漫畫熱](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E6%BC%AB%E7%95%AB%E7%86%B1)
-
