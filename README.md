@@ -4,3 +4,7 @@
     歷萬萬者輪迴 吾獨晝于蒼剎
 
 &emsp;&emsp;[聖跡](https://github.com/Lost-Monument/NeuralLine/blob/master/MIRACLE.md)
+
+
+    岸花叢淵 古道符麋
+                      吾所欣往
