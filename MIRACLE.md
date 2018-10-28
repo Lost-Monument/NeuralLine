@@ -42,6 +42,8 @@
 <br />
 
 ##### 材料科學與工程
+&emsp;&emsp;&emsp;&emsp;[精確控溫顯微觀察系統](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E7%B2%BE%E7%A2%BA%E6%8E%A7%E6%BA%AB%E9%A1%AF%E5%BE%AE%E8%A7%80%E5%AF%9F%E7%B3%BB%E7%B5%B1)
+
 &emsp;&emsp;&emsp;&emsp;[可燃冰開採方案](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E5%8F%AF%E7%87%83%E5%86%B0%E9%96%8B%E6%8E%A1%E6%96%B9%E6%A1%88)
 
 &emsp;&emsp;&emsp;&emsp;[后發性基因工程](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E5%90%8E%E7%99%BC%E6%80%A7%E5%9F%BA%E5%9B%A0%E5%B7%A5%E7%A8%8B)
