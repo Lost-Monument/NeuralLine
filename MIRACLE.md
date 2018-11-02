@@ -64,3 +64,5 @@
 
 &emsp;&emsp;&emsp;&emsp;[PANTSの革新](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E8%A4%B2%E3%81%AE%E9%9D%A9%E6%96%B0)
 
+&emsp;&emsp;&emsp;&emsp;[古韻](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%8C%E5%B1%85%E9%9B%86/%E5%8F%A4%E9%9F%BB)
+
