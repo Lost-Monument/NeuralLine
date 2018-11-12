@@ -48,6 +48,8 @@
 
 &emsp;&emsp;&emsp;&emsp;[后發性基因工程](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E5%90%8E%E7%99%BC%E6%80%A7%E5%9F%BA%E5%9B%A0%E5%B7%A5%E7%A8%8B)
 
+&emsp;&emsp;&emsp;&emsp;[仿生植](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E4%BB%BF%E7%94%9F%E6%A4%8D)
+
 &emsp;&emsp;&emsp;&emsp;[柔性顯示材料](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E6%9F%94%E6%80%A7%E9%A1%AF%E7%A4%BA%E6%9D%90%E6%96%99)
 
 &emsp;&emsp;&emsp;&emsp;[意念控制材料](https://github.com/Lost-Monument/NeuralLine/tree/%E8%A1%93%E9%9B%86-MATERIAL/%E6%84%8F%E5%BF%B5%E6%8E%A7%E5%88%B6%E6%9D%90%E6%96%99)
