@@ -6,5 +6,4 @@
 &emsp;&emsp;[聖跡](https://github.com/Lost-Monument/NeuralLine/blob/master/MIRACLE.md)
 
 
-    岸花叢淵 古道符麋
-                      吾所欣往
+&emsp;&emsp;[斂巛集](https://github.com/Lost-Monument/NeuralLine/tree/master/%E6%96%82%E5%B7%9B%E9%9B%86)
