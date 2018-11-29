@@ -12,4 +12,4 @@
     歷萬萬者輪迴 吾獨晝于蒼剎
 
 
-&emsp;&emsp;[未蝕之痕](https://github.com/Lost-Monument/NeuralLine/tree/master/%E6%9C%AA%E8%9D%95%E4%B9%8B%E7%97%95)
+&emsp;&emsp;[未蝕之痕](https://github.com/Lost-Monument/NeuralLine/blob/master/DISASTER.md)
